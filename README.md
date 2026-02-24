@@ -12,7 +12,7 @@ Estou sempre desenvolvendo projetos práticos e buscando evoluir como desenvolve
 Meu principal foco está em **Lógica de Programação** 🧠  
 Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe, pois linguagens podem ser aprendidas rapidamente quando os fundamentos estão bem consolidados.
 
-### 💻 Linguagens Principais
+### 💻 Tecnologias Principais
 <div style="display: inline_block"><br>
   <img align="center" alt="Aga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Aga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,7 +29,9 @@ Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe
 
 ---
 
-## 📬 Meu Conteúdo & Contatos
+### 📬 Meu Conteúdo & Contatos
+
+Se quiser acompanhar meus projetos, conteúdos ou entrar em contato comigo, você pode me encontrar nas plataformas abaixo. Estou sempre aberto a networking, aprendizado e novas oportunidades.
 
 <div> 
   <a href="https://www.youtube.com/@agamedesrmeira" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -38,10 +40,8 @@ Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe
   <a href="https://www.linkedin.com/in/agamedes-r-meira-45550b352/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<div align="center">
+---
 
-# 🌎 Você pode alterar o idioma. // You can change the language.
+## 🌎 You can change the language here:
 
-🇺🇸 [English](README-en.md)
-
-</div>
+<img src="https://flagcdn.com/w20/us.png"> English Version: [English](README-en.md)
