@@ -44,4 +44,4 @@ If you’d like to follow my projects, content, or get in touch with me, you can
 
 ## 🌎 Return to the main page
 
-<img src="https://flagcdn.com/w20/br.png"> Portuguese Version: [Back to Main Page](README.md)
+<img src="https://flagcdn.com/w40/br.png"> Portuguese Version: [Back to Main Page](https://github.com/AgamedesR)
