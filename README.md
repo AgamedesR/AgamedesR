@@ -42,6 +42,6 @@ Se quiser acompanhar meus projetos, conteúdos ou entrar em contato comigo, voc�
 
 ---
 
-## 🌎 You can change the language here:
+## 🌎 Voçe Pode Mudar o Idioma:
 
 <img src="https://flagcdn.com/w20/us.png"> English Version: [English](README-en.md)
