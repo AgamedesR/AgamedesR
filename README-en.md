@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+```python
+name = "Agamedes Rodrigues"
+role = "Student of Science Computer"
+goal = "who go beyond code and develop solutions that make a difference in people's lives."
+ 
+bio = f"{name} is a {role} {goal}"
+print(bio)
+```
+##
+
 I’m a Computer Science student passionate about technology and software development.  
 Currently, my main focus is improving my **programming logic**, because I believe that once you master logic, learning any programming language becomes much easier.
 
