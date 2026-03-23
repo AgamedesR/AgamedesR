@@ -1,14 +1,22 @@
 ## Olá 👋
 
+```python
+nome = "Agamedes Rodrigues"
+cargo = "Estudante de Ciência da Computação"
+objetivo = "que tem como propósito ir além do código e desenvolve soluções que fazem diferença na vida das pessoas."
+
+bio = f"{nome} é um {cargo} {objetivo}"
+print(bio)
+```
+##
+
 Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente, meu foco principal é evoluir na **lógica de programação**, pois acredito que dominando a lógica, aprender qualquer linguagem se torna muito mais simples.
-
 Estou sempre desenvolvendo projetos práticos e buscando evoluir como desenvolvedor.
 
 ---
 
 ## 🚀 Sobre minhas Habilidades
-
 Meu principal foco está em **Lógica de Programação** 🧠  
 Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe, pois linguagens podem ser aprendidas rapidamente quando os fundamentos estão bem consolidados.
 
@@ -31,7 +39,6 @@ Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe
 ---
 
 ### 📬 Meu Conteúdo & Contatos
-
 Se quiser acompanhar meus projetos, conteúdos ou entrar em contato comigo, você pode me encontrar nas plataformas abaixo. Estou sempre aberto a networking, aprendizado e novas oportunidades.
 
 <div> 
@@ -44,5 +51,4 @@ Se quiser acompanhar meus projetos, conteúdos ou entrar em contato comigo, voc�
 ---
 
 ## 🌎 Voçe Pode Mudar o Idioma:
-
 <img src="https://flagcdn.com/w20/us.png"> English Version: [English](README-en.md)
