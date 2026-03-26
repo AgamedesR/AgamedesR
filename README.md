@@ -2,7 +2,7 @@
 
 ```python
 nome = "Agamedes Rodrigues"
-cargo = "Estudante de Ciência da Computação"
+descricao = "Estudante de Ciência da Computação"
 objetivo = "que tem como propósito ir além do código e desenvolve soluções que fazem diferença na vida das pessoas."
 
 bio = f"{nome} é um {cargo} {objetivo}"
