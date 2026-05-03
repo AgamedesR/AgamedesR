@@ -1,15 +1,12 @@
 ## Olá 👋
-
 ```python
 nome = "Agamedes Rodrigues"
 descricao = "Estudante de Ciência da Computação"
 objetivo = "que tem como propósito ir além do código e desenvolve soluções que fazem diferença na vida das pessoas."
-
 bio = f"{nome} é um {descricao} {objetivo}"
 print(bio)
 ```
 ##
-
 Sou estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente, meu foco principal é evoluir na **lógica de programação**, pois acredito que dominando a lógica, aprender qualquer linguagem se torna muito mais simples.
 Estou sempre desenvolvendo projetos práticos e buscando evoluir como desenvolvedor.
@@ -21,20 +18,27 @@ Meu principal foco está em **Lógica de Programação** 🧠
 Acredito que dominar a lógica é mais importante do que apenas aprender sintaxe, pois linguagens podem ser aprendidas rapidamente quando os fundamentos estão bem consolidados.
 
 ### 💻 Tecnologias Principais
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Aga-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Aga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Aga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
+<table>
+  <tr>
+    <td><img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+    <td><img alt="Django" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"></td>
+    <td><img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+    <td><img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+  </tr>
+</table>
 
 ### 📚 Tecnologias com as quais já tive contato
-<div style="display: inline_block"><br>
-  <img align="center" alt="Aga-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Aga-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Aga-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Aga-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
+
+<table>
+  <tr>
+    <td><img alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></td>
+    <td><img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
+    <td><img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
+    <td><img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></td>
+    <td><img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+  </tr>
+</table>
 
 ---
 
